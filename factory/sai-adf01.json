@@ -1,0 +1,9 @@
+{
+	"name": "sai-adf01",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8a110e64-3500-4727-a335-f3c9ea1b3897",
+		"tenantId": "16b4fbc9-a4d5-4f81-9e8f-48ce20a86801"
+	}
+}
